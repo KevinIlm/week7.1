@@ -1,6 +1,6 @@
 const container = document.querySelector('.container');
 const movieTitle = document.querySelector('.userInputTitle');
-const moviePosterUrl = document.querySelector('.userInputPosterURL');
+const moviePosterUrl = document.querySelector('.userInputPosterUrl');
 const movieDate = document.querySelector('.userInputDate');
 const btn = document.querySelector('.button');
 const movieTitleToDisplay = document.querySelector('.favoriteMovieTitle');
